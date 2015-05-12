@@ -1,2 +1,2 @@
 #web-component-google-map
-# web-component-google-map
+Please read nvivie.me/blog
